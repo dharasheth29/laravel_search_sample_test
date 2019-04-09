@@ -1,0 +1,14 @@
+html, body {
+    background-color: #fff;
+    color: #000000;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+div.container{
+    margin-top: 50px;
+} 
+.search_text_blue{
+    color: blue;                
+}          
